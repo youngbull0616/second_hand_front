@@ -1,1 +1,14 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youngbull0616&theme=horizon&hide_border=true&border_radius=15&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=600)](https://git.io/streak-stats)
+# 基于Vue3开发的二手交易平台前端  ![](https://img.shields.io/badge/license-MIT-blue) ![Static Badge](https://img.shields.io/badge/3-VUE?logoColor=%235AA078&label=VUE)
+
+
+
+该前端基于vue3开发，是一个二手交易平台
+
+
+## Installation
+```
+npm run dev
+```
+
+## License
+YoungBull01616
