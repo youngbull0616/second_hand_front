@@ -2,6 +2,14 @@
   "name": "second-hand-trading",
   "version": "4.2.0",
   "private": true,
+  "description": "一款二手商城的前端",
+  "author": "YoungBull0616",
+  "license": "MIT",
+  "homepage": "https://github.com/youngbull0616",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youngbull0616/second_hand_front"
+  },
   "scripts": {
     "dev": "npm run serve",
     "serve": "vue-cli-service serve",
