@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> 一款二手商城的前端
+> 基于vue+elementUI的二手交易平台前端
 
 ### 🏠 [Homepage](https://github.com/youngbull0616)
 
